@@ -1,0 +1,43 @@
+> > > > EXERCÍCIUS 1 > > > >
+
+// ---- conversor de temperatura ---- //
+° converter fahrnheint para Celsius 
+
+            fahrnheint - 32
+ celsius = ________________
+                 1.8
+//varieavel 
+celsiu, fahrnheint
+
+//entrada
+fahrnheint
+
+//processamento 
+celsiu = (fahrnheint-32) /1.8 // calculo de temperatura 
+
+//saida
+celsiu
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+DICAS:
+para formatar o esultado em números especificos de casas decimais usamos: .tpFixed(2)
+(2) duas casas de decimais após o processamento
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+> > > > EXERCÍCIO 2 > > > >
+° regra de 3 (cálculo da porcetagem)
+criar no scratch e no JS em app para fazer o cálculo da %
+segundo o modelo abaixo:
+10% de 200 = 20
+ X      Y   VALOR
+
+//variaveis 
+x, y
+
+//processamento 
+valor X, Y (númericas)
+
+//saída 
+valor 
+
+( primeiro multiplica e depois divide
+primeiro multiplica pelo % e depois divide pelo numero que vc quer )

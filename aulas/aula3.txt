@@ -1,0 +1,29 @@
+ALGORÍTMO ("receita de bolo")
+EX: Criar um app para calcular a média das notas 
+(MEDIA -> soma tudo e depois divide)
+
+°como calcular a média:
+
+        // VARIAVEL nota 1 + // nota 2 VARIAVEL
+                    média:_____________
+                            2
+   VARIAVEL (PQ É ALGO QUE MUDA CONSTANTEMENTE) 
+divide a nota por números de notas 
+
+// VARIÁVEIS -> 3
+
+// ENTRADA 
+nota1, nota2
+
+//PROCESSAMENTO 
+media +(nota1 + nota2) / 2
+
+//SAIDA 
+media 
+
+variaveis do mesmo tipo podem ser criadas em uma unica
+ linha separando com virgula
+
+ CONCATENÇÃO (juntar o texto com o conteudo de uma variavel)
+
+ EX: console.log(`texto ${}`)

@@ -1,0 +1,31 @@
+GitHub
+Linguagem de marcação markdown
+
+# = Título
+## = Subtítulo
+![]() = Inserir imagem
+[]() = Inserir link (DICA: selo de metadados  https://shields.io/  )
+
+jogar a imgem en assed 
+
+para colocar a imagem ingressada no repositorio/
+abrir a foto/ copiar o link da imagem/
+colar dentro de read.me
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Atividade de avaliação individual
+(entrega pelo GitThub)
+
+1) Criar um repositório do github e hosper todos os projetos no scratch (OK)
+
+2) Criar no scratch um app para cálcular o valor da hora de serviço de um técnico de informática 
+
+3) PECUPERAÇÃO MENSAL: 7.000 $
+RESERVA: 30% REMUNERAÇÃO (1.500) $
+CUSTO OPERACIONAL: 500 $
+INVESTIMENTO: 20% REMUNERAÇÃO (1.000) $
+
+SOMA: 8.000 $
+DETERMINAR HORAS/MÊS (160)
+HORA TÉCNICA = 8000 / 160
+HORA TÉCNICA: 50 $ 

@@ -1,0 +1,22 @@
+npm (gerenciador de pacotes)
+|___ package.json (principal arquivo de configuração)
+
+npm init (iniciar um novo package.json)
+npm ls (lista os pacotes instalados)
+npm i ou npm install (instalar um novo pacote)
+
+___________________________________________________________________
+
+cd pasta [enter] vai para o diretorio 
+cd . . [enter] volta um nível
+
+Estruturas de controle
+Condicionais
+
+if (condição) { 
+    //condição verdadeira
+} else {
+    //condição falsa
+}
+
+OBSERVAÇÃO: uma condição nunca pode ser verdadeira e falsa ao mesmo tempo 

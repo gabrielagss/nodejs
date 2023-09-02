@@ -1,0 +1,15 @@
+DESAFIO: 
+
+Desenvolver no Scratch e no Node.js  uma calculadora determinepelo professor dentre as 22 possibilidades
+
+ENTREGA
+Scratch: -> pelo Github
+Node.js -> professor corrige na hora
+
+MEU DESAFIO 12
+Quantos kilomêtros posso rodar, pelo quanto tenho de conbustivel 
+
+primeiro tenho que saber quanto meu carro faz por litro 
+segundo qual a distancia que quero percorrer
+terceiro quanto litros abasteci 
+quanto consigo fazer

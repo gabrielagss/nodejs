@@ -1,0 +1,80 @@
+Correação de exercícios 
+
+> > metro quadrado / tijolo baiano > >
+
+- calcular a quantidade de tijolos por metro quadrado 
+(ijolo baiano por metro quadado /  tijolo baiano de 8 furos)
+
+tijolo = 0,0361 m2
+
+//variável 
+m2, otal
+
+//entrada
+m2
+
+//processamento
+total = m2/0,361
+
+//saída 
+total
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+> > calcular a área e o perímetro de um retângulo > > 
+
+area = base x altura 
+perimetro = 2 (base + altura)
+
+//variável
+area, base, altura, perimetro 
+
+//processamento1
+area = bae * altura
+
+//processamento2
+perimetro = 2(base + altura) // é a mesma coisa que base + altura + base + altura
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Estrutura de controle condicional
+Encadeamento / aninhamento
+
+if (condição 1) {
+    //condição 1 verdadeira
+} else }
+    //condição falsa
+    if (condição 2) {
+        //condição 2 verdadeira
+    } else } //mais de uma condição sempre dentro do ELSE
+        //condição falsa
+    }
+}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+if (condição 1) {
+    //condição 1 verdadeira
+} else if (condição 2) {
+        //condição 2 verdadeira
+    } else { //mais de uma condição sempre dentro do ELSE
+        //nenhuma condição anterior é verdadeira
+}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+EXERCÍCIO:
+
+desenvolver no scratch e no js um APP que informe a obrigatoriedade de voltar em fução da idade, sabendo que:
+
+° abaixo de 16 anos o voto é proibido
+° 16,17 ou acima de 70 anos o voto é facultativo 
+° Entre 18 e 70 anos (incluindo o 18 e 0 70) o voto é obrigatorio
+
+//variáveis
+idade
+
+//processamento
+Encadeamento if - else 
+
+
+

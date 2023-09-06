@@ -1,0 +1,27 @@
+ESTRUTURAS DE CONTROLE 
+ ° SWITCH  CASE TRABALHA COM A ESTRUTURA DE (OPÇÕES)
+//Uso om variáveis do tipo números inteiros = números sem ponto ou virgula, numero redondo 
+
+let variavel
+
+switch(variavel) //destribuição { 
+    caso1:
+        //código caso o valor da variavel seja 1
+        break //para o comando
+    caso2:
+        //código caso o valor da variavel seja 2
+        break
+    defult:
+        //código caso nem um valor encotrado ele anula o comando (iguinora o resultado se não ouver o valor)
+        break
+} 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+                                        DADOS
+° Gerar números aleatótios (JavaScript)
+° Math (recurso para função matemáticas)
+° Math.floor (Transforma números que não são inteiros para números inteiros)
+° Math.random() (Números aleatótios de 0 a 9)
+EX: Math.floor(Math.random() * 60)
+//sorteio de qualquer número entre 0 a 59

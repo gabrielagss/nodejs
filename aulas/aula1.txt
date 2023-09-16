@@ -27,7 +27,7 @@ https://nodejs.org/en
 
 Visual Studio Code (editor de código)
 
-
+(remover pacotes no json) npm r nome do pacote 
 
 
 

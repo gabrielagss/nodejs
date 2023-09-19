@@ -1,0 +1,24 @@
+ ° Estrutura de controle 
+ ° Laço de repetição 
+ ° Laço for (número determinado de reptição)
+    - É a única estrutura que perminte criar internamente uma variável do tip núrero inteiro 
+    - Início; condição; incremento/decremento
+    - O laço é repetido enquanto a condição for verdadeira 
+    
+    for (let i = 1; i < 10; i++) //i = repetição (contagem crecente) {
+    console.log(i)
+}
+    console.log("Fim do laço FOR")
+
+    for (let i = 10; i > 0; i--)// contagem decrecente {
+* - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * -
+
+É possivel  criar um laço FOR dentro de outro laço FOR 
+    for () {
+        for () {
+
+        }
+    }
+OBSERVAÇÃO
+1. Usar nomes diferentes e variáveis 
+2.  O incremento ou decremento do laço principal só é apos a finalição do laço interno

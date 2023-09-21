@@ -1,0 +1,27 @@
+° Estruturas de controle 
+° Laço de repetição 
+° while | do while
+
+while (condição) {
+    //condição verdadeira 
+}
+ * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * -
+
+ do {
+    // Sempre executa o código 1 vez independente da condição, depois analisa a condição (semelhante a estrutua WHILE)
+ } while (condição)
+  * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * -
+
+  ATIVIDADE DE AVALIAÇÃO 
+  (ENTREGA NO GITHUB) - 22/09
+  continuar o jog space invaders
+  ° MÍNIMO:
+    UFO -> em cima da tela percoorendo de um canto para o outro (borda)
+    tiro de canhão (touch tiro)
+  - score + 100
+  - mudar costume pra explosão
+  - efeito sonoro de explosão 
+  - UFO atirando:
+  - Se acertar o canhão:
+  - lives = 0 
+  - GAME OVER 
